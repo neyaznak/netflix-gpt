@@ -28,6 +28,12 @@
 - Updated the sore with Trailer video data
 - Embedded the youtube video and made it autoplay & mute
 - Tailwind classes to make Main Container look awesome
+- Build Second component
+- Built the Movie List 
+- Built Movie Card
+- TMDB Image CDN url added
+- Made the browse page amazing with tailwind css
+- created usePopularMovies custom hook
 
 
 # Features
